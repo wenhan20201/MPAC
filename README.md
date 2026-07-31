@@ -1,4 +1,4 @@
-# SPAC: Stable pseudo-label refinement and action completeness learning for weakly supervised temporal action localization
+# Multi-source pseudo-label refinement and action completeness learning with EMA teacher guidance for weakly-supervised temporal action localization
 
 Han Wen, Guangping Zeng, Qingchuan Zhang, Shuo Yang, Yupeng Hou, Qicheng Ma
 
